@@ -1,6 +1,6 @@
 #!/bin/bash
 
-auser=""
+auser="MADFUT22"
 
 set -e
 
